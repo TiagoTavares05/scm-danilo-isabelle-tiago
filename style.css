@@ -10,11 +10,9 @@
 
 /* ---------- Página ----------
    Parte 3: o Aluno B altera background-color e font-family */
-body {
-    margin: 0;
-    color: #334155;
-    background-color: #ffffff;
-    font-family: Georgia, 'Times New Roman', serif;
+   body {
+    background-color: #f0f4f8;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 
